@@ -2,6 +2,11 @@
 
 This repository contains the code for reimplementing our ICLR 2024 work, METR.
 
+<p align="center">
+ <img src="resources/poster.png" width="100%"/> 
+ <br>
+</p>
+
 > [A Simple Romance Between Multi-Exit Vision Transformer and Token Reduction](https://openreview.net/forum?id=gJeYtRuguR)
 >
 > Dongyang Liu, Meina Kan, Shiguang Shan, Xilin Chen
